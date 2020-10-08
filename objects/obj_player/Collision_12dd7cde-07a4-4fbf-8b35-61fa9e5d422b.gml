@@ -1,0 +1,3 @@
+/// @description die
+
+killPlayer();
